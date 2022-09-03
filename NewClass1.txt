@@ -2,3 +2,5 @@
 //made from c01
 //changes made to NewClass
 
+checking stash
+
